@@ -5,3 +5,9 @@
 header {
   background-color: aquamarine;
 }
+#button1 {
+  background-image: linear-gradient(blue, lightgreen);
+  color: red;
+}
+.class1 {
+}
